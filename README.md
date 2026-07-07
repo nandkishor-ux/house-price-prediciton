@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction
+#  House Price Prediction
 
 > A regression-based Machine Learning model that predicts property prices based on house features — built end-to-end in Python with a saved deployable model.
 
